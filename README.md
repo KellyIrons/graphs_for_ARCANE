@@ -1,6 +1,6 @@
 # Overview
 
-This set of scripts interfaces with ARCANE to add the ability to nicely visualize chemical mechanisms. The main script is A_Graph_Creation.py, which calls graph-specific functions in ARCANE's drgep module to write a .graphml file. A_Find_EP_paths.py is called within the main script to determine the "path" between each species and the target species that is taken when calculating the error propagation coefficient. 
+This set of scripts interfaces with ARCANE to add the ability to nicely visualize chemical mechanisms. The main script is A_Graph_Creation.py, which calls graph-specific functions in ARCANE's drgep module to write a .graphml file. A_Find_EP_paths.py is called within the main script to determine the "path" that is taken between each species and the target species when calculating the error propagation coefficient. 
 
 
 # Workflow 
