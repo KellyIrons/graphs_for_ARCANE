@@ -21,7 +21,7 @@ Multiple tools can be used to visualize .graphml files, but the preferred one by
 1. Select the "Import Network From File System" button (the arrow with the little graph/molecule) and select your file.
 <img width="38" alt="image" src="https://user-images.githubusercontent.com/79431051/159190727-006d8d06-0a73-4d62-b868-2319a71f0e91.png">
 
-2. Select the "Style" tab and under the top drop-down choose a pre-set style if desired. Node and edge display options can be changed in their respective tabs shown near the bottom left of the window. Use "continuous mapping" to vary different display options by parametere values, such as having edge with increse with increasing DIC or making species with higher error propagation values darker in color.
+2. Select the "Style" tab and under the top drop-down choose a pre-set style if desired. Node and edge display options can be changed in their respective tabs shown near the bottom left of the window. Use "continuous mapping" to vary different display options by parameter values, such as having edge width increase with increasing DIC or making species with higher error propagation values darker in color.
 
 <img width="291" alt="image" src="https://user-images.githubusercontent.com/79431051/159190788-863a0858-e159-4529-b16c-662b3b1a81a5.png">
 
